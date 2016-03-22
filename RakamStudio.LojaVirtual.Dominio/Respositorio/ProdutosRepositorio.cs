@@ -17,11 +17,7 @@ namespace RakamStudio.LojaVirtual.Dominio.Respositorio
         {
             get { return _context.Produtos; }
         }
-
-        //public void Incluir()
-        //{
-        //    _context.Produtos.Add
-        //}
+        
 
         
     }
