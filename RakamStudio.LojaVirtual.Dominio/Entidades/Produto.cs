@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RakamStudio.LojaVirtual.Dominio.Entidades
 {
-    class Produto
+    public class Produto
     {
         // Será o identity no Entity Framework
         public int ProdutoId { get; set; }
